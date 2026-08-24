@@ -1,0 +1,26 @@
+# Prácticas gestionadas como repositorios Git independientes
+Trabajo1/
+
+# Entornos virtuales
+.venv/
+.venv*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores / IDE
+.vscode/
+.idea/
