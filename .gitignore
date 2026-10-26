@@ -21,3 +21,4 @@ Thumbs.db
 # Editores / IDE
 .vscode/
 .idea/
+Examen P2/data/raw/*.csv
